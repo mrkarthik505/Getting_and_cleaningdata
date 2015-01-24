@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 The task at hand
 
  You should create one R script called run_analysis.R that does the following. 
@@ -119,3 +120,6 @@ setwd("C:/Users/radhakrishnak/Documents/UCI HAR Dataset")
 /*naming the subject and label columns */
   names(main_data)[1] <- "subject"
   names(main_data)[2] <- "label"
+=======
+# Getting_and_cleaningdata
+>>>>>>> b045ae0e27d3f446825ba9006c551dbeba8b5b96
